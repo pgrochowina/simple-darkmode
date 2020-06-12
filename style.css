@@ -8,8 +8,15 @@ html {
   box-sizing: inherit;
 }
 
+:root{
+    --background-color: white;
+    --text-color: black;
+}
+
 body {
-    padding: 16px
+    padding: 16px;
+    background: var(--background-color);
+    color: var(--text-color);  
 }
 
 .button {
