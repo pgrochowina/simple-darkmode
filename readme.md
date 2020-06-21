@@ -1,4 +1,4 @@
-![zrzut ekranu trybu jasny-ciemny](../gh/light-dark-mode.png)
+![zrzut ekranu trybu jasny-ciemny](/gh/light-dark-mode.png)
 
 # Tryb jasny-ciemny
 
@@ -33,3 +33,12 @@ viewMode.addEventListener("click", () => {
 2. Tryb jasny
 - kolor tła: yellow
 - kolor czcionki: #d23669
+
+## Lista plików
+
+| Nazwa pliku| Opis|Rozmiar|
+| ------------- |-------------| -----:|
+| index.html|plik z kodem HTML|  2KB|
+| style.css|style własne|   1KB|
+| normalize.css|style do normalizacji|   7KB|
+| main.js|kod JavaScript|     2KB|
