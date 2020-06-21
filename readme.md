@@ -1,6 +1,5 @@
 # Tryb jasny-ciemny
 
-## Opis
 Przykładowa strona stworzona z wykorzystaniem **CSS Custom Properties** inaczej nazywanych *zmiennymi*.
 Więcej o wykorzystaniu zmiennych w CSS można przeczytać [tutaj](https://developer.mozilla.org/en-US/docs/Web/CSS/--*).
 
@@ -24,3 +23,11 @@ viewMode.addEventListener("click", () => {
 ```
 
 ## Możliwe stany 
+
+1. Tryb ciemny:
+- kolor tła: #282c35
+- kolor czcionki: #ffa7c4
+
+2. Tryb jasny
+- kolor tła: yellow
+- kolor czcionki: #d23669
