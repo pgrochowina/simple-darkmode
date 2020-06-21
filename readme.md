@@ -1,3 +1,5 @@
+![zrzut ekranu trybu jasny-ciemny](../gh/light-dark-mode.png)
+
 # Tryb jasny-ciemny
 
 Przykładowa strona stworzona z wykorzystaniem **CSS Custom Properties** inaczej nazywanych *zmiennymi*.
