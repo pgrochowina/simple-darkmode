@@ -11,7 +11,7 @@ viewMode.addEventListener("click", () => {
     mainHeader.innerHTML = 'To jest przykładowy tryb ciemny';
     console.log(`zmieniono tryb na ciemny, wartość isDark = ${isDark}`);
   } else if (isDark == true) {
-    document.documentElement.style.setProperty("--background-color", "white");
+    document.documentElement.style.setProperty("--background-color", "yellow");
     document.documentElement.style.setProperty("--text-color", "#d23669");
     isDark = false;
     mainHeader.innerHTML = 'To jest przykładowy tryb jasny';
